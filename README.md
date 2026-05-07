@@ -26,7 +26,7 @@ The project focuses exclusively on the forensic investigation process rather tha
 The environment consists of:
 
 - Victim Machine: Windows 10
-- Analyst Machine: Ubuntu / Kali Linux
+- Analyst Machine: Ubuntu
 - VM Platform: VMware Workstation
 
 The victim system is intentionally configured to contain suspicious artifacts and anomalous activity for forensic investigation purposes.

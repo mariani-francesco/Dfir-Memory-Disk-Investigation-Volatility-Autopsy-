@@ -69,6 +69,8 @@ The victim system is intentionally configured to contain suspicious artifacts an
 
 ---
 
-## Disclaimer
+## Project Outcome
 
-This project is intended for educational and defensive cybersecurity purposes only.
+This project demonstrates a structured DFIR investigation workflow focused on memory and disk forensic analysis.
+
+It highlights how forensic artifacts can be collected, analyzed, and correlated to identify suspicious activity, reconstruct system events, and support incident investigation processes within a controlled lab environment.

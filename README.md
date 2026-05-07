@@ -27,7 +27,7 @@ The environment consists of:
 
 - Victim Machine: Windows 10
 - Analyst Machine: Ubuntu / Kali Linux
-- Hypervisor Platform: VirtualBox
+- VM Platform: VMware Workstation
 
 The victim system is intentionally configured to contain suspicious artifacts and anomalous activity for forensic investigation purposes.
 

@@ -69,12 +69,6 @@ The victim system is intentionally configured to contain suspicious artifacts an
 
 ---
 
-## Project Status
-
-Work in progress.
-
----
-
 ## Disclaimer
 
 This project is intended for educational and defensive cybersecurity purposes only.

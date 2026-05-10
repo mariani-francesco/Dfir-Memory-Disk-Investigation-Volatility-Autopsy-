@@ -26,7 +26,7 @@ This approach provides better filesystem context and allows artifacts to be revi
 
 ## Artifact Discovery
 
-During the disk analysis, Autopsy was used to navigate the Windows user profile and inspect artifacts located under the user's AppData directory.
+During the disk analysis, Autopsy was used to navigate the Windows filesystem and user profile structure and inspect artifacts located under the user's AppData directory.
 
 The following path was identified:
 

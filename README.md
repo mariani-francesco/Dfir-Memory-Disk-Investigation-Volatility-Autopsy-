@@ -21,7 +21,7 @@ The investigation focuses on identifying forensic evidence related to:
 - Network-related evidence  
 - Memory and filesystem artifacts  
 
-The analysis is performed from a defensive and forensic perspective without focusing on offensive exploitation techniques.
+The investigation is conducted from a defensive and forensic perspective rather than an offensive security perspective.
 
 Detailed investigation steps and findings are documented in the `phases/` directory.
 
@@ -62,7 +62,7 @@ The environment consists of two virtual machines:
 * Memory acquisition and forensic evidence handling  
 * Volatility 3 memory analysis workflow  
 * Autopsy disk artifact investigation  
-* IOC identification and event reconstruction  
+* Indicator of Compromise (IOC) identification
 * Final forensic investigation report with findings and conclusions  
 
 ---

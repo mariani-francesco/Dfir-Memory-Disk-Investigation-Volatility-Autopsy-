@@ -34,7 +34,7 @@ The following PowerShell command was used:
 Get-FileHash .\memory.raw -Algorithm SHA256
 ```
 
-Hash verification is an important forensic practice used to ensure that evidence remains unchanged throughout the investigation process.
+Hash verification is an important forensic practice used to ensure that forensic evidence remains unchanged and verifiable throughout the investigation process.
 
 ---
 

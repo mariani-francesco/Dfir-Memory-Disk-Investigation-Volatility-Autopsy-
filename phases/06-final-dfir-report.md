@@ -115,6 +115,21 @@ This demonstrates how volatile and persistent artifacts can be combined during a
 
 ---
 
+## Investigation Timeline
+
+The investigation findings support the following sequence of events:
+
+1. A suspicious directory (`SystemUpdate`) was created under the user's AppData Roaming path.
+2. A PowerShell script (`update.ps1`) was stored within the directory.
+3. PowerShell execution activity was identified in memory.
+4. Process analysis confirmed PowerShell-related execution context and console activity.
+5. Memory acquisition was performed using WinPmem.
+6. Disk analysis confirmed the presence of persistent filesystem artifacts related to the simulated activity.
+
+This timeline demonstrates how memory and disk artifacts can be correlated to reconstruct suspicious system activity during a DFIR investigation.
+
+---
+
 ## Key Findings
 
 - PowerShell activity was identified in the memory image.
